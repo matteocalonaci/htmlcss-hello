@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+h1{
+    color: white;
+    background-color: rgba(15, 167, 55, 0.739);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    border: 5px solid black;
+}
